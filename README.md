@@ -1,3 +1,5 @@
+### This Repo is Archived under Pulsar-Edit due to being a temporary repo demonstrating the ability of `space-pencil` but currently not being used in the core editor.
+
 # Space Pencil
 
 The only feature this library currently has is an element builder with the same
